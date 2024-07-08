@@ -29,7 +29,7 @@ A função principal deste repositório é `Payload`, que recebe os parâmetros 
 ### Parâmetros
 
 - `nome`: Nome do comerciante.
-- `chavepix`: Chave PIX (CPF, email, número de telefone ou chave aleatória).
+- `chavepix`: Chave PIX (CPF sem pontos ou barra, ou email).
 - `valor`: Valor da transação.
 - `cidade`: Cidade do comerciante.
 - `txtId`: Descrição ou ID da transação.
